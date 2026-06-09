@@ -23,7 +23,6 @@ Therefore the corrected appliance contract is:
 | effective dwell | 0.04 s |
 | scan cycle | 0.32 s |
 
-The earlier appliance interpretation using `dt_s=0.32`, `dwell_s_effective=0.96`, and scan cycle `7.68 s` is superseded.
 
 ## Corrected Headline Results
 
