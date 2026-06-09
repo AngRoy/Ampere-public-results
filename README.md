@@ -34,7 +34,7 @@ The earlier appliance interpretation using `dt_s=0.32`, `dwell_s_effective=0.96`
 | DwellMLP, 3 seeds | 43.8311 +/- 2.8979 W |
 | DwellObserver-T, 3 seeds | 40.6439 +/- 1.2933 W |
 
-DwellObserver-T remains the best corrected MAE result, but the old absolute appliance numbers are not paper-facing anymore.
+DwellObserver-T remains the best corrected MAE result.
 
 ## Data
 
