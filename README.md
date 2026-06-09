@@ -1,4 +1,4 @@
-# AMPERE Corrected 40 ms Appliance Results
+# AMPERE Appliance Results
 
 This repository publishes a reproducible evidence package for the corrected AMPERE `appliance_8ch` results.
 
