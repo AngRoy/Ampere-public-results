@@ -1,0 +1,17 @@
+family,branch_name,mae
+DwellMLP,Branch01_Ceiling_Fan,3.9627735816136647
+DwellMLP,Branch02_Tubelight,4.898121290902047
+DwellMLP,Branch03_Electric_Kettle,107.5074374033206
+DwellMLP,Branch04_Electric_Geyser,99.46842151358243
+DwellMLP,Branch05_Water_Pump,69.58927227859844
+DwellMLP,Branch06_Refrigerator,14.58109904647509
+DwellMLP,Branch07_Rice_Cooker,9.80592187826372
+DwellMLP,Branch08_Microwave_Oven,40.83588963827446
+DwellObserver-T,Branch01_Ceiling_Fan,3.661427272168407
+DwellObserver-T,Branch02_Tubelight,4.288510985867725
+DwellObserver-T,Branch03_Electric_Kettle,96.34242865997396
+DwellObserver-T,Branch04_Electric_Geyser,97.16060053702421
+DwellObserver-T,Branch05_Water_Pump,67.39202090435063
+DwellObserver-T,Branch06_Refrigerator,14.137346605055635
+DwellObserver-T,Branch07_Rice_Cooker,10.420956620061297
+DwellObserver-T,Branch08_Microwave_Oven,38.5858729723991

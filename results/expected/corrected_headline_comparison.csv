@@ -1,0 +1,5 @@
+family,seed,method,mae,dwell_mae,weighted_energy_error,transition_mae,stable_mae
+Corrected linear,-,linear,75.39441704611784,75.39441704611784,0.002039942385235,,
+Best online tree,-,dense_row_hist_gradient_boosting,78.19738926083397,78.19738926083397,0.0154750674494415,,
+DwellMLP,mean+std,seed aggregate,,43.83111707887881,0.0218173586090558,73.4549752583304,21.27350030003035
+DwellObserver-T,mean+std,seed aggregate,,40.64386529001349,0.024526040733725833,74.12915470133322,18.1572286498899

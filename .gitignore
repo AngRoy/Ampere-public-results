@@ -1,0 +1,27 @@
+# Raw data is intentionally not published.
+data/raw/*
+!data/raw/.gitkeep
+
+# Generated verification and rerun artifacts.
+runs/
+outputs/
+*.parquet
+*.pt
+*.pth
+checkpoints/
+predictions/
+
+# Python/Jupyter local state.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS/editor files.
+.DS_Store
+Thumbs.db
+.vscode/
+
